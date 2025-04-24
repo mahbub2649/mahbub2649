@@ -10,7 +10,7 @@
 ### 🛠️ Tech Stack & Skills
 
 **Programming Languages & Frameworks:**  
-🔹 Python | Java | C++ | SQL  
+🔹 Python | Java | C++ | Golang | SQL  
 🔹 TensorFlow | PyTorch | Keras | Scikit-learn  
 🔹 Django | Flask  
 
